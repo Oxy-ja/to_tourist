@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Oxy-ja/to_tourist/static/css/main.75f81b53.css",
+    "main.js": "/Oxy-ja/to_tourist/static/js/main.d7f8051c.js",
+    "static/js/787.261ba1bc.chunk.js": "/Oxy-ja/to_tourist/static/js/787.261ba1bc.chunk.js",
+    "static/media/Myshkin.png": "/Oxy-ja/to_tourist/static/media/Myshkin.5cb4e4f4d8674ddc528f.png",
+    "static/media/PereslavlZalessky.png": "/Oxy-ja/to_tourist/static/media/PereslavlZalessky.af76a699aa38d9753d52.png",
+    "static/media/Lubim.png": "/Oxy-ja/to_tourist/static/media/Lubim.068a8316dd500a161c47.png",
+    "static/media/RostovGreat.png": "/Oxy-ja/to_tourist/static/media/RostovGreat.1e651fab2ad56039931f.png",
+    "static/media/Rybinsk.png": "/Oxy-ja/to_tourist/static/media/Rybinsk.eee54e42fac6a3db4202.png",
+    "static/media/Yaroslavl.png": "/Oxy-ja/to_tourist/static/media/Yaroslavl.d655fc4d7f14de257862.png",
+    "static/media/Danilov.png": "/Oxy-ja/to_tourist/static/media/Danilov.8c50b669abdea0efac21.png",
+    "static/media/Uglich.png": "/Oxy-ja/to_tourist/static/media/Uglich.d45bde7a9120e5e37e55.png",
+    "static/media/Poshekhonye.png": "/Oxy-ja/to_tourist/static/media/Poshekhonye.672a788fb1aa0799afe5.png",
+    "static/media/GavrilovYam.png": "/Oxy-ja/to_tourist/static/media/GavrilovYam.22f769a9ca5e5ee9ab92.png",
+    "static/media/Tutaev.png": "/Oxy-ja/to_tourist/static/media/Tutaev.9b660e975e7a69f89ba5.png",
+    "index.html": "/Oxy-ja/to_tourist/index.html",
+    "main.75f81b53.css.map": "/Oxy-ja/to_tourist/static/css/main.75f81b53.css.map",
+    "main.d7f8051c.js.map": "/Oxy-ja/to_tourist/static/js/main.d7f8051c.js.map",
+    "787.261ba1bc.chunk.js.map": "/Oxy-ja/to_tourist/static/js/787.261ba1bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f81b53.css",
+    "static/js/main.d7f8051c.js"
+  ]
+}
