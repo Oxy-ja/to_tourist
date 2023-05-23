@@ -1,5 +1,4 @@
 import React from "react";
-// import classes from "./App.module.css";
 import './App.css'
 
 import Title from "./Components/Title/Title";
